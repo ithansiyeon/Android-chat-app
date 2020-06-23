@@ -5,4 +5,4 @@
 ## 개발 툴
 Java Android Studio
 
-<img src="C:\Users\PC\OneDrive\사진\download.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="C:\Users\PC\OneDrive\사진\download.jpg" width="450px" height="300px" alt="RubberDuck"></img><br/>
