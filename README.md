@@ -4,5 +4,5 @@
   - window10
 ## 개발 툴
 Java Android Studio
+<img src="C:\Users\PC\OneDrive\사진\download.jpg"  width="700" height="370">
 
-<img src="C:\Users\PC\OneDrive\사진\download.jpg" width="450px" height="300px" alt="RubberDuck"></img><br/>
