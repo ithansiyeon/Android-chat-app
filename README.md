@@ -5,4 +5,4 @@
 ## 개발 툴
 Java Android Studio
 <br>
-<img src="https://lovefields.github.io/img/androidstudio.png"  width="300" height="370">
+<img src="https://lovefields.github.io/img/androidstudio.png"  width="300" height="300">
