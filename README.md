@@ -1,17 +1,17 @@
-## 안드로이드를 이용한 RSA키 교환을 통한 TCP 형식의 채팅 프로그램
+## :envelope: 안드로이드를 이용한 RSA키 교환을 통한 TCP 형식의 채팅 프로그램
 
-## 개발 플랫폼
+## :computer: 개발 플랫폼
   - window10
 ## 개발 툴
 Java Android Studio
 <br>
 <img src="https://lovefields.github.io/img/androidstudio.png"  width="200" height="200">
 
-## 화면 설계도
+## :green_book: 화면 설계도
 
 <img src="https://user-images.githubusercontent.com/66079830/85937661-b2617b80-b940-11ea-8209-b99adb34e0e9.png"  width="500" height="500">
 
-## 시연 화면 
+## :ok_woman: 시연 화면 
 
 ### 클라이언트
 1. APP을 실행시켰을시 화면.
