@@ -14,18 +14,18 @@ Java Android Studio
 ## 시연 화면 
 
 ### 클라이언트
-#### 1. APP을 실행시켰을시 화면.
+1. APP을 실행시켰을시 화면.
 
 <img src="https://user-images.githubusercontent.com/66079830/85937685-ff455200-b940-11ea-95a0-63c0c341e2fd.png"  width="300" height="300">
 
-#### 2. 서버의 Peer IP 입력 후 RSA 버튼클릭(=서버에게 클라이언트 공개키 전송).
+2. 서버의 Peer IP 입력 후 RSA 버튼클릭(=서버에게 클라이언트 공개키 전송).
 
 <img src="https://user-images.githubusercontent.com/66079830/85937690-053b3300-b941-11ea-8357-71706e8bac66.png"  width="300" height="300">
 
-#### 3. 서버에서 보내온 서버 RSA 공개키 수신.
+3. 서버에서 보내온 서버 RSA 공개키 수신.
 
 <img src="https://user-images.githubusercontent.com/66079830/85937702-1edc7a80-b941-11ea-83fc-5a4e1f1af4f5.png"  width="300" height="300">
 
-#### 4. 위 과정 이후 자유로운 채팅 교환.
+4. 위 과정 이후 자유로운 채팅 교환.
 
 <img src="https://user-images.githubusercontent.com/66079830/85937707-29970f80-b941-11ea-88a4-50b32ea1ea83.png"  width="300" height="300">
