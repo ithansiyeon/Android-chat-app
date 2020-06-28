@@ -9,7 +9,7 @@ Java Android Studio
 
 ## :clipboard: 화면 설계도
 
-<img src="https://user-images.githubusercontent.com/66079830/85937661-b2617b80-b940-11ea-8209-b99adb34e0e9.png"  width="500" height="500">
+<img src="https://user-images.githubusercontent.com/66079830/85937661-b2617b80-b940-11ea-8209-b99adb34e0e9.png"  width="700" height="500">
 
 ## :ok_woman: 시연 화면 
 
