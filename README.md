@@ -2,12 +2,12 @@
 
 ## :computer: 개발 플랫폼
   - window10
-## 개발 툴
+## :pencil2: 개발 툴
 Java Android Studio
 <br>
 <img src="https://lovefields.github.io/img/androidstudio.png"  width="200" height="200">
 
-## :green_book: 화면 설계도
+## :clipboard: 화면 설계도
 
 <img src="https://user-images.githubusercontent.com/66079830/85937661-b2617b80-b940-11ea-8209-b99adb34e0e9.png"  width="500" height="500">
 
