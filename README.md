@@ -6,7 +6,7 @@
     <tr>
         <th>프로젝트명</th>
         <th>채팅 프로그램</th>
-        <th style="width:50%">개발 기간</th>
+        <th style="width:50%;">개발 기간</th>
         <th>2018.09.25. ~ 2018.12.02.</th>
     </tr>
     <tr>
