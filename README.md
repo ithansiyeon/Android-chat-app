@@ -48,7 +48,7 @@
 
 ## :clipboard: 화면 설계도
 
-<img src="https://user-images.githubusercontent.com/66079830/90410615-8fa04780-e0e5-11ea-984d-07f74d74c025.png"  width="700" height="1000">
+<img src="https://user-images.githubusercontent.com/66079830/90410615-8fa04780-e0e5-11ea-984d-07f74d74c025.png"  width="650" height="1000">
 
 ## :ok_woman: 시연 화면 
 
