@@ -16,7 +16,7 @@
         <th>팀 / 3명<br>
           (<a href="">한시연</a>,
           김태중</a>,
-          박경신</a>
+          박경신</a>)
       </th>
     </tr>
       <tr>
@@ -38,7 +38,7 @@
     </tr>
     <tr>
         <th>개발도구</th>
-        <th colspan="3"><img src="https://lovefields.github.io/img/androidstudio.png"  width="50" height="50">Android Studio</th>
+        <th colspan="3">Android Studio</th>
     </tr>
     <tr>
         <th>사용기술</th>
