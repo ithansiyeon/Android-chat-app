@@ -11,7 +11,7 @@
     </tr>
     <tr>
         <th>프로젝트 성격</th>
-        <th>캡스톤 프로젝트</th>
+        <th>캡스톤 디자인 프로젝트</th>
         <th>개발 인원</th>
         <th>팀 / 3명<br>
           (<a href="">한시연</a>,
@@ -48,7 +48,7 @@
 
 ## :clipboard: 화면 설계도
 
-<img src="https://user-images.githubusercontent.com/66079830/85937661-b2617b80-b940-11ea-8209-b99adb34e0e9.png"  width="1000" height="1100">
+<img src="https://user-images.githubusercontent.com/66079830/90410615-8fa04780-e0e5-11ea-984d-07f74d74c025.png"  width="1000" height="1100">
 
 ## :ok_woman: 시연 화면 
 
