@@ -1,11 +1,50 @@
-## :envelope: 안드로이드를 이용한 RSA키 교환을 통한 TCP 형식의 채팅 프로그램
+## :envelope: 안드로이드를 이용한 RSA키 암복화 TCP 형식의 채팅 프로그램
 
-## :computer: 개발 플랫폼
-  - window10
-## :pencil2: 개발 툴
-Java Android Studio
-<br>
-<img src="https://lovefields.github.io/img/androidstudio.png"  width="200" height="200">
+### 👋 Introduction
+
+<table>
+    <tr>
+        <th>프로젝트명</th>
+        <th>채팅 프로그램Center</th>
+        <th>개발 기간</th>
+        <th>2019.04.05. ~ 2019.04.19.</th>
+    </tr>
+    <tr>
+        <th>프로젝트 성격</th>
+        <th>캡스톤 프로젝트</th>
+        <th>개발 인원</th>
+        <th>팀 / 3명<br>
+          (<a href="">한시연</a>,
+          김태중</a>,
+          박경신</a>
+      </th>
+    </tr>
+      <tr>
+        <th>프로젝트 개요</th>
+        <th>안드로이드를 이용한 RSA키 암복화 TCP 형식의 채팅 프로그램</th>
+        <th>개발 환경</th>
+        <th>Windows10</th>
+    </tr>
+    <tr>
+        <th colspan="4">사용한 Skill 또는 지식</th>
+    </tr>  
+    <tr>
+        <th>개발언어</th>
+        <th colspan="3">Java</th>
+    </tr>
+    <tr>
+        <th>형상관리</th>
+        <th colspan="3">Github, Git Bash, Source Tree</th>
+    </tr>
+    <tr>
+        <th>개발도구</th>
+        <th colspan="3"><img src="https://lovefields.github.io/img/androidstudio.png"  width="50" height="50">Android Studio</th>
+    </tr>
+    <tr>
+        <th>사용기술</th>
+        <th colspan="3">P2P,RSA 알고리즘</th>
+    </tr>
+</table>
 
 ## :clipboard: 화면 설계도
 
