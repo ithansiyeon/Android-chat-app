@@ -42,7 +42,7 @@
     </tr>
     <tr>
         <th>사용기술</th>
-        <th colspan="3">P2P,RSA 알고리즘</th>
+        <th colspan="3">P2P, RSA 알고리즘, 쓰레드</th>
     </tr>
 </table>
 
