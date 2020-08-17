@@ -55,7 +55,7 @@
 ### 클라이언트
 1. APP을 실행시켰을시 화면. 2. 서버의 Peer IP 입력 후 RSA 버튼클릭(=서버에게 클라이언트 공개키 전송).
 
-<img style="margin-right:300px;" src="https://user-images.githubusercontent.com/66079830/85937685-ff455200-b940-11ea-95a0-63c0c341e2fd.png"  width="300" height="300"><img src="https://user-images.githubusercontent.com/66079830/85937690-053b3300-b941-11ea-8357-71706e8bac66.png"  width="300" height="300">
+<img style="margin-right:300px;" src="https://user-images.githubusercontent.com/66079830/85937685-ff455200-b940-11ea-95a0-63c0c341e2fd.png"  width="300" height="300">       <img src="https://user-images.githubusercontent.com/66079830/85937690-053b3300-b941-11ea-8357-71706e8bac66.png"  width="300" height="300">
 
 3. 서버에서 보내온 서버 RSA 공개키 수신.
 
