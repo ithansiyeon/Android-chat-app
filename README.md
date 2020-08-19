@@ -79,7 +79,7 @@
     </tr>
     <tr>
         <th colspan="4">
-            <img style="margin-left:-50px;" src = "https://user-images.githubusercontent.com/66079830/90662703-a8466400-e283-11ea-891d-b3509404ec0b.gif" width="500" height="400">
+            <img style="margin-left:-50px;" src = "https://user-images.githubusercontent.com/66079830/90662703-a8466400-e283-11ea-891d-b3509404ec0b.gif" width="600" height="400">
         </th>
     </tr>
 </table>
