@@ -62,7 +62,7 @@
 <img src="https://user-images.githubusercontent.com/66079830/85937702-1edc7a80-b941-11ea-83fc-5a4e1f1af4f5.png"  width="300" height="300">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/66079830/85937707-29970f80-b941-11ea-88a4-50b32ea1ea83.png"  width="300" height="300">
 
 ### ♧ 서버
-<div>
+
 1. 클라이언트에게서 공개키 수신 시 자동으로 IP가 입력됨.
 
 <img src="https://user-images.githubusercontent.com/66079830/85937710-2d2a9680-b941-11ea-9a21-4460e673e8e7.png"  width="300" height="300">
@@ -70,7 +70,7 @@
 2. 클라이언트가 서버의 공개키를 수신 한 이후 자유로운 채팅 교환.
 
 <img src="https://user-images.githubusercontent.com/66079830/85937712-30be1d80-b941-11ea-9c2f-66afb2087933.png"  width="300" height="300">
-</div>
+
 
 ### 📼 Appearance
 매트랩으로 구현한 ECC 코드입니다.
