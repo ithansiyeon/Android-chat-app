@@ -70,5 +70,16 @@
 
 <img src="https://user-images.githubusercontent.com/66079830/85937712-30be1d80-b941-11ea-9c2f-66afb2087933.png"  width="300" height="300">
 
-## :movie_camera:코드
-<img style="margin-left:-50px;" src = "https://user-images.githubusercontent.com/66079830/90662703-a8466400-e283-11ea-891d-b3509404ec0b.gif" width="500" height="400">
+### 📼 Appearance
+매트랩으로 구현한 ECC 코드입니다.
+
+<table>
+    <tr>
+        <th colspan="4">구현 코드</th>
+    </tr>
+    <tr>
+        <th colspan="4">
+            <img style="margin-left:-50px;" src = "https://user-images.githubusercontent.com/66079830/90662703-a8466400-e283-11ea-891d-b3509404ec0b.gif" width="500" height="400">
+        </th>
+    </tr>
+</table>
