@@ -4,10 +4,10 @@
 
 <table>
     <tr>
-        <th style="width:20%;">프로젝트명</th>
+        <th style="width:10%;">프로젝트명</th>
         <th style="width:20%;">채팅 프로그램</th>
-        <th style="width:30%;">개발 기간</th>
-        <th style="width:30%">2018.09.25. ~ 2018.12.02.</th>
+        <th style="width:35%;">개발 기간</th>
+        <th style="width:35%">2018.09.25. ~ 2018.12.02.</th>
     </tr>
     <tr>
         <th>프로젝트 성격</th>
