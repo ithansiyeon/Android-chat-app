@@ -14,7 +14,7 @@
         <th>캡스톤 디자인 프로젝트</th>
         <th>개발 인원</th>
         <th>팀 / 3명<br>
-          (<a href="">한시연</a>,
+          (<a href="https://github.com/ithansiyeon/Ecc-Algorithm/blob/master/README.md">한시연</a>,
           김태중</a>,
           박경신</a>)
       </th>
@@ -72,7 +72,7 @@
 <img src="https://user-images.githubusercontent.com/66079830/85937712-30be1d80-b941-11ea-9c2f-66afb2087933.png"  width="300" height="300">
 
 
-### 📼 Appearance
+### :key: Code
 매트랩으로 구현한 ECC 코드입니다.
 
 <table>
