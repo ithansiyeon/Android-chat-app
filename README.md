@@ -46,11 +46,11 @@
     </tr>
 </table>
 
-## :clipboard: 화면 설계도
+### :clipboard: 화면 설계도
 
 <img src="https://user-images.githubusercontent.com/66079830/90410615-8fa04780-e0e5-11ea-984d-07f74d74c025.png"  width="650" height="1000">
 
-## :ok_woman: 시연 화면 
+### :ok_woman: 시연 화면 
 
 ### ♣ 클라이언트
 1. APP을 실행시켰을시 화면.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. 서버의 Peer IP 입력 후 RSA 버튼클릭.
@@ -72,7 +72,7 @@
 <img src="https://user-images.githubusercontent.com/66079830/85937712-30be1d80-b941-11ea-9c2f-66afb2087933.png"  width="300" height="300">
 
 
-## :key: Code 
+### :key: Code 
 매트랩으로 구현한 ECC 코드입니다.
 
 <table>
