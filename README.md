@@ -14,7 +14,7 @@
         <th>캡스톤 디자인 프로젝트</th>
         <th>개발 인원</th>
         <th>팀 / 3명<br>
-          (<a href="https://github.com/ithansiyeon/Ecc-Algorithm/blob/master/README.md">한시연</a>,
+          (<a href="https://github.com/ithansiyeon">한시연</a>,
           김태중</a>,
           박경신</a>)
       </th>
