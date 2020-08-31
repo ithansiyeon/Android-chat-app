@@ -2,7 +2,7 @@
 ![메인](https://user-images.githubusercontent.com/66079830/91676554-2e638400-eb7b-11ea-99b9-36b133031a54.png)
 ### 👋 Introduction
 
-<table class = "table table-bordered table-striped table-hover" style="width: 850px; margin: 10px auto;">
+<table>
       <tr>
           <th style="width:15%;">프로젝트명</th>
           <th style="width:35%;">채팅 프로그램</th>
