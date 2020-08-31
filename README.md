@@ -2,49 +2,49 @@
 ![메인](https://user-images.githubusercontent.com/66079830/91676554-2e638400-eb7b-11ea-99b9-36b133031a54.png)
 ### 👋 Introduction
 
-<table>
-    <tr>
-        <th style="width:10%;">프로젝트명</th>
-        <th style="width:10%;">채팅 프로그램</th>
-        <th style="width:40%;">개발 기간</th>
-        <th style="width:40%">2018.09.25. ~ 2018.12.02.</th>
-    </tr>
-    <tr>
-        <th>프로젝트 성격</th>
-        <th>캡스톤 디자인 프로젝트</th>
-        <th>개발 인원</th>
-        <th>팀 / 3명<br>
-          (<a href="https://github.com/ithansiyeon">한시연</a>,
-          김태중</a>,
-          박경신</a>)
-      </th>
-    </tr>
+<table class = "table table-bordered table-striped table-hover" style="width: 850px; margin: 10px auto;">
       <tr>
-        <th>프로젝트 개요</th>
-        <th>안드로이드를 이용한 RSA키 암복화 TCP 형식의 채팅 프로그램</th>
-        <th>개발 환경</th>
-        <th>Windows10</th>
-    </tr>
-    <tr>
-        <th colspan="4">사용한 Skill 또는 지식</th>
-    </tr>  
-    <tr>
-        <th>개발언어</th>
-        <th colspan="3">Java</th>
-    </tr>
-    <tr>
-        <th>형상관리</th>
-        <th colspan="3">Github, Git Bash, Source Tree</th>
-    </tr>
-    <tr>
-        <th>개발도구</th>
-        <th colspan="3">Android Studio</th>
-    </tr>
-    <tr>
-        <th>사용기술</th>
-        <th colspan="3">P2P, RSA 알고리즘, 쓰레드</th>
-    </tr>
-</table>
+          <th style="width:15%;">프로젝트명</th>
+          <th style="width:35%;">채팅 프로그램</th>
+          <th style="width:20%;">개발 기간</th>
+          <th style="width:25%">2018.09.25. ~ 2018.12.02.</th>
+      </tr>
+      <tr>
+          <th>프로젝트 성격</th>
+          <th>캡스톤 디자인 프로젝트</th>
+          <th>개발 인원</th>
+          <th>팀 / 3명<br>
+            (<a href="https://github.com/ithansiyeon">한시연</a>,
+            김태중</a>,
+            박경신</a>)
+        </th>
+      </tr>
+        <tr>
+          <th>프로젝트 개요</th>
+          <th>안드로이드를 이용한 RSA키 암복화 TCP 형식의 채팅 프로그램</th>
+          <th>개발 환경</th>
+          <th>Windows10</th>
+      </tr>
+      <tr>
+          <th colspan="4">사용한 Skill 또는 지식</th>
+      </tr>  
+      <tr>
+          <th>개발언어</th>
+          <th colspan="3">Java</th>
+      </tr>
+      <tr>
+          <th>형상관리</th>
+          <th colspan="3">Github, Git Bash, Source Tree</th>
+      </tr>
+      <tr>
+          <th>개발도구</th>
+          <th colspan="3">Android Studio</th>
+      </tr>
+      <tr>
+          <th>사용기술</th>
+          <th colspan="3">P2P, RSA 알고리즘, 쓰레드</th>
+      </tr>
+  </table>
 
 ### :clipboard: 화면 설계도
 
