@@ -21,9 +21,7 @@
       </tr>
         <tr>
           <th>프로젝트 개요</th>
-          <th>안드로이드를 이용한 RSA키 암복화 TCP 형식의 채팅 프로그램</th>
-          <th>개발 환경</th>
-          <th>Windows10</th>
+          <th colspan="3">안드로이드를 이용한 RSA키 암복화 TCP 형식의 채팅 프로그램</th>
       </tr>
       <tr>
           <th colspan="4">사용한 Skill 또는 지식</th>
