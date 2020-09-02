@@ -94,7 +94,7 @@
     <tr>
         <td>한시연</td>
         <td>클라이언트 코딩1, 동영상 취합</td>
-        <td rowspan="3">보고서 작성, TCP & RSA 학습, 설계도면 작성<br>버그 </td>
+        <td rowspan="3">보고서 작성, TCP & RSA 학습, 설계도면 작성<br>버그 수정</td>
     </tr>
     <tr>
         <td>박경신</td>
