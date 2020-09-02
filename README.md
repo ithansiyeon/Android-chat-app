@@ -93,12 +93,12 @@
     </tr>
     <tr>
         <td>한시연</td>
-        <td>클라이언트 코딩1<br>동영상 취합</td>
-        <td rowspan="3">보고서 작성<br>TCP & RSA 학습<br>설계도면 작성</td>
+        <td>클라이언트 코딩1, 동영상 취합</td>
+        <td rowspan="3">보고서 작성, TCP & RSA 학습, 설계도면 작성</td>
     </tr>
     <tr>
         <td>박경신</td>
-        <td>서버 코딩<br>발표</td>
+        <td>서버 코딩, 발표</td>
     </tr>
     <tr>
         <td>김태중</td>
