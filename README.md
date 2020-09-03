@@ -21,7 +21,7 @@
       </tr>
         <tr>
           <th>프로젝트 개요</th>
-          <th colspan="3">안드로이드를 이용한 RSA키 암복화 TCP 형식의 채팅 프로그램</th>
+          <th colspan="3">RSA알고리즘을 사용한 암호화된 통신 프로그램 구성</th>
       </tr>
       <tr>
           <th colspan="4">사용한 Skill 또는 지식</th>
